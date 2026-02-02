@@ -18,7 +18,8 @@
 
 <h3 align="center"><br> Sobre mim 🎧 </h3>
 
-<h4 align="justify"> Possuo formação técnica em Análise e Desenvolvimento de Sistemas pela ETEC e<br>atualmente estou cursando Ciência da Computação pela PUC-SP. Tenho interesse<br>pelo desenvolvimento contínuo da área, especialmente no campo da Inteligência<br>Artificial. Desejo contribuir para sua evolução e ajudar pessoas através dela.</h4>
+<h4 align="justify"> Possuo formação técnica em Análise e Desenvolvimento de Sistemas pela ETEC e atualmente estou cursando Ciência da Computação pela PUC-SP. Tenho interesse pelo desenvolvimento 
+contínuo da área, especialmente no campo da Inteligência Artificial. Desejo contribuir para sua evolução e ajudar pessoas através dela.</h4>
 </div>
 
 ###
