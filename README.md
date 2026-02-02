@@ -34,7 +34,7 @@ contínuo da área, especialmente no campo da Inteligência Artificial. Desejo c
 <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/12b96572-3b99-440c-a4a7-e5aa1b398410" />
 <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/d3e17d21-9702-4df7-be21-4b2772b40bb8" />
 <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/8241c286-a62c-47fc-abb2-f0e2f7ab0862" />
-<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/9be3a155-79fe-4ee9-9e9c-acaae0a41c04" />
+<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/809e28eb-28e3-43fb-a25b-29895a9a13d9" />
 <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/27f45fec-9ede-41a5-9126-e8d555ba2007" />
 
 </div>
