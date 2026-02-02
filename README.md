@@ -30,11 +30,10 @@ contínuo da área, especialmente no campo da Inteligência Artificial. Desejo c
 
 <div align="center">
 <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/d6930c7e-831f-4664-8d63-53d9c5b0ff11" />
-<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/75f62b20-b13b-4b69-8cfd-1db15174ae24" />
-<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/12b96572-3b99-440c-a4a7-e5aa1b398410" />
-<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/d3e17d21-9702-4df7-be21-4b2772b40bb8" />
-<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/8241c286-a62c-47fc-abb2-f0e2f7ab0862" />
+<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/778d320f-4ec4-4aa7-b5c5-40bc3b791b16" />
+<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/e117e490-d588-489f-b41d-929efd537ec8" />
+<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/47a4eaad-c5b4-4200-924b-dac68c65dc5b" />
+<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/24db5069-9c92-45f3-8700-82b700f70953" />
 <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/809e28eb-28e3-43fb-a25b-29895a9a13d9" />
-<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/27f45fec-9ede-41a5-9126-e8d555ba2007" />
-
+<img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/a2d409bc-c06c-4c4f-83f3-54f423c9f82a" />
 </div>
