@@ -9,7 +9,7 @@
 
 <!--banner-->
 <div height="890" align="center">
-  <img align="right" width="350" height="410" src="https://github.com/hellen-pyphile/hellen-pyphile/issues/5"/>
+  <img align="right" width="350" height="410" src="https://github.com/user-attachments/assets/b203db3d-d2dd-4cb1-ae7f-8c00ffbc84d2"/>
 </div>
 
 ###
