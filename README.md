@@ -3,7 +3,7 @@
 </span>
 
 
-# ˒ hellen-pyphile ⋆ ࣪˒
+# ˒ hellen-pyphile ⋆˒
 
 ###
 
