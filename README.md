@@ -7,6 +7,10 @@
 
 ###
 
+#  ˒ statistics
+
+###
+
 <div>
     <a>
         <img src="https://github-stats-extended-frontend-ten-mauve.vercel.app/api?username=hellen-pyphile&hide_rank=false&rank_icon=github&hide_title=true&include_all_commits=true&theme=transparent&hide_border=true&card_width=515" alt ="Hellen Araujo GitHub stats" />
