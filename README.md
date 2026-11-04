@@ -7,7 +7,11 @@
 
 ###
 
+<div align="center">
+
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,fastapi,git,html,js,mysql,py)
+
+</div>
 
 #  ˒ statistics
 
